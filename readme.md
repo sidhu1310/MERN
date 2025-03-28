@@ -66,4 +66,4 @@ PORT=5000
 
 ## Contact
 
-For inquiries or support, reach out via [https\://github.com/Srinija1102].
+For inquiries or support, reach out via [https\://github.com/sidhu1310].
